@@ -1,0 +1,17 @@
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\bin\Release\net6.0-windows\CS408ProjectClient.exe
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\bin\Release\net6.0-windows\CS408ProjectClient.deps.json
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\bin\Release\net6.0-windows\CS408ProjectClient.runtimeconfig.json
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\bin\Release\net6.0-windows\CS408ProjectClient.dll
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\bin\Release\net6.0-windows\CS408ProjectClient.pdb
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.csproj.AssemblyReference.cache
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.Form1.resources
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.csproj.GenerateResource.cache
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.AssemblyInfoInputs.cache
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.AssemblyInfo.cs
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.dll
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\refint\CS408ProjectClient.dll
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.pdb
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\CS408ProjectClient.genruntimeconfig.cache
+C:\Users\efeba\Desktop\Coding\My Workspace\CS408ProjectClient\obj\Release\net6.0-windows\ref\CS408ProjectClient.dll

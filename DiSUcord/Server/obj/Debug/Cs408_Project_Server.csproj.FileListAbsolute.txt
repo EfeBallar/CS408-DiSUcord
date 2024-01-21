@@ -1,0 +1,42 @@
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe.config
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.pdb
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.AssemblyReference.cache
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Form1.resources
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Properties.Resources.resources
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.GenerateResource.cache
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.CoreCompileInputs.cache
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.exe
+C:\Users\mertr\source\repos\Cs408_Project_Server\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.pdb
+C:\Users\efeba\Desktop\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe.config
+C:\Users\efeba\Desktop\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe
+C:\Users\efeba\Desktop\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.pdb
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.AssemblyReference.cache
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Form1.resources
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Properties.Resources.resources
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.GenerateResource.cache
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.CoreCompileInputs.cache
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.exe
+C:\Users\efeba\Desktop\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.pdb
+D:\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe.config
+D:\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe
+D:\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.pdb
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.AssemblyReference.cache
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.SuggestedBindingRedirects.cache
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Form1.resources
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Properties.Resources.resources
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.GenerateResource.cache
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.CoreCompileInputs.cache
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.exe
+D:\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.pdb
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe.config
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.exe
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\bin\Debug\Cs408_Project_Server.pdb
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.AssemblyReference.cache
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Form1.resources
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.Properties.Resources.resources
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.GenerateResource.cache
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.csproj.CoreCompileInputs.cache
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.exe
+C:\Users\mertr\OneDrive\Masaüstü\proje 408\Cs408_Project_Server\obj\Debug\Cs408_Project_Server.pdb
